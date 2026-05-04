@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(TodoApp());
 }
-
 class TodoApp extends StatefulWidget {
   @override
   _TodoAppState createState() => _TodoAppState();
